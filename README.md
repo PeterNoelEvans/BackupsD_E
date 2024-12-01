@@ -1,7 +1,3 @@
-If you're using Windows 11, Bash scripts won't work directly unless you're running a Linux subsystem (WSL). For Windows, you can use PowerShell or a batch file for a similar backup solution. Here's how you can create a backup script in Windows:
-
----
-
 ### **PowerShell Script**
 
 ```powershell
